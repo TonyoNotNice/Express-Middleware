@@ -23,3 +23,15 @@ This project is a simple **Express-based** application that demonstrates various
 - **Request Logging**: Middleware for logging details of incoming requests for better monitoring and debugging.
 - **RESTful APIs**: A simple set of RESTful API routes to handle basic CRUD operations.
 - **Environment Configuration**: Secure handling of environment variables for sensitive application settings using the dotenv package.
+
+# Clone the repository
+git clone https://github.com/TonyoNotNice/express-middleware.git
+
+# Navigate to the project directory
+cd netflix-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
